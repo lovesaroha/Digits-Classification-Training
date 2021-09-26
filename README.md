@@ -8,16 +8,16 @@ Training a keras model to do classification using MNIST, a data set containing i
 
 ### Tensorflow
 ```bash
-$ py -m pip install tensorflow
+py -m pip install tensorflow
 ```
 ### Matplotlib
 ```bash
-$ py -m pip install matplotlib
+py -m pip install matplotlib
 ```
 
 ## Start Training
 ```bash
-$ py convolutional_neural_network.py
+py convolutional_neural_network.py
 ```
 
 
